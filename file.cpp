@@ -13,4 +13,5 @@ c=b-a;
 d = a+b+c;
 >>>>>>> 773883672e3c3bb8aa5577418bc8f85131f7a8f9
 cout<< added
+cout<<"A";
 }
